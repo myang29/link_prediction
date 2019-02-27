@@ -1,3 +1,3 @@
 # link_prediction
 
-Predict missing links in a large graph.
+Predict missing links in a large graph. 
